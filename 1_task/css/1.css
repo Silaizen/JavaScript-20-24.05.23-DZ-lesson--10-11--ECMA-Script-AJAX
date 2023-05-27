@@ -1,0 +1,13 @@
+body{
+    background-color: #FBF2E9;
+}
+
+#inputText {
+    margin-bottom: 10px;
+  }
+
+  #output {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
